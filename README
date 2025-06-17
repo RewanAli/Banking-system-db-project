@@ -1,0 +1,51 @@
+# 🏦 Overview
+This project simulates a complete banking system database pipeline built from scratch, covering all key stages from design to reporting. It includes:
+
+-Database Design using Entity Relationship Diagrams (ERD) and mapping
+-Data generation to simulate real-world banking operations
+-SQL scripts to create the database, insert data, and define stored procedures
+-Data modeling using Power Query to clean and structure the data
+-Business Intelligence dashboards developed in Power BI for customer insights and financial metrics
+-Reporting using SQL Server Reporting Services (SSRS) to deliver formatted reports
+-Full documentation of all project steps and decisions
+
+The goal of the project is to demonstrate an end-to-end data workflow using modern tools, reflecting real-life scenarios in the retail banking sector.
+
+## 🔧 Tools & Technologies
+- **Draw.io** – ERD and Mapping Diagrams
+- **ChatGPT** – Data Generation
+- **SQL Server** – Database Creation, Stored Procedures
+- **Power Query** – Data Modeling
+- **Power BI** – Data Analysis & Visualization
+- **SSRS** – Reporting
+- **Word** – Project Documentation
+
+## 📌 Project Workflow
+
+1. **ERD & Mapping Design** (Draw.io)
+2. **Data Generation** (ChatGPT)
+3. **Database Schema & Insertions** (SQL)
+4. **Data integration** (SSIS)
+4. **Stored Procedures** for business logic (SQL)
+5. **Power Query** for data modeling
+6. **Power BI** dashboard development
+7. **SSRS Reports** for structured reporting
+8. **Requirment document &Documentation** (MS Word)
+
+## 📂 Project Structure
+
+Requirment document : https://drive.google.com/drive/folders/1ysVr9eblo_Pp1Pbjt-G1Rsx41mGgmgXb
+ERD : https://app.diagrams.net/#G1dBAWHvYEC_eEPGJVFI3afcYDwkmpTL4b#%7B%22pageId%22%3A%22PP_WWrb-klBy2ttwL5OI%22%7D
+mapping : https://app.diagrams.net/#G1dBAWHvYEC_eEPGJVFI3afcYDwkmpTL4b#%7B%22pageId%22%3A%229n8i0K7Nak9TINCyQXnJ%22%7D
+SQL : https://drive.google.com/drive/folders/1ViYbT0XywbYPkIzYxFwAWNDlp2HIr6CJ
+  it has both files Database Schema & Insertions and stored Procedures for business logic , also the SQL diagram
+Data generated : https://drive.google.com/drive/folders/1ssWJaRrf_kmF16m2UKlF5k7D-QRAMzgb
+PowerBI : https://drive.google.com/drive/folders/1IdhCX54i-MaOZ62Cn2LhSRFyh1TOfUf_
+SSRS : https://drive.google.com/drive/folders/1S1uo-fCm9ON2zWddO1n7lcIDV9a2anXN
+Documentation : https://drive.google.com/drive/folders/1OHtS9CMpCQB_xxZl3yypSG-pfxmvVjxr
+
+## ✅ Conclusion
+This project showcases a full data lifecycle for a simulated banking system — from database design and implementation to advanced reporting and business intelligence.
+It highlights my ability to integrate multiple tools and technologies (SQL, Power BI, SSRS, Power Query) to solve real-world data challenges. I developed this project
+independently from scratch to strengthen my technical skills and demonstrate my readiness for a data-focused role in the financial industry.
+
